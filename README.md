@@ -39,4 +39,4 @@ General information about ELTeC releases is available at https://github.com/COST
 
 The concept DOI for all versions of ELTeC-geo is the following: tbc.
 
-* XC.X.X, September 2024: The corpus contains XX novels encoded at level 1. 
+* XC.X.X, September 2024: The corpus contains 29 novels encoded at level 1. 
