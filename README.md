@@ -1,6 +1,6 @@
 # ELTeC-geo
 
-This is the Georgian novel corpus for the ELTeC, the *European Literary Text Collection*, produced by the COST Action *Distant Reading for European Literary History* (CA16204, https://distant-reading.net). The current version is vX.X.X. 
+This is the Georgian novel corpus for the ELTeC, the *European Literary Text Collection*, produced by the COST Action *Distant Reading for European Literary History* (CA16204, https://distant-reading.net). The current version is v0.1.0. 
 
 An overview over the authors and works represented in the collection can be gained here: tbd. 
 
@@ -18,14 +18,14 @@ All texts included in this collection are in the public domain. No claim to copy
 
 If you use this corpus in your research or teaching, please follow good scholarly practice and use the following citation suggestion to acknowledge your source:
 
-* *Georgian Novel Corpus (ELTeC-geo)*, edited by Irakli Khvedelidze. Version vX.X.X, September 2024. In: *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: tbc. 
+* *Georgian Novel Corpus (ELTeC-geo)*, edited by Irakli Khvedelidze. Version v1.0.1, September 2024. In: *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: tbc. 
 
 ```
 @collection{khvedelidze_2024_eltecgeo,
   title = {Georgian Novel Corpus (ELTeC-geo)},
   maintitle = {European Literary Text Collection (ELTeC)},
   editor = {Khvedelidze, Irakli},
-  version = {vX.X.X},
+  version = {v0.1.0},
   year = {2024},
   publisher = {COST Action Distant Reading for European Literary History},
   url = {https://github.com/COST-ELTeC/ELTeC-fra/},
