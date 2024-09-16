@@ -7,8 +7,8 @@ An overview over the authors and works represented in the collection can be gain
 ## Contributors
 
 * Collection editor: Irakli Khvedelidze
-* Contributors: 
-* Sources: 
+* Contributors: Irakli Khvedelidze
+* Sources: National Parliamentary Library of Georgia, Ilia State University.
 
 ## Licence
 
