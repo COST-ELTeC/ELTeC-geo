@@ -18,7 +18,7 @@ All texts included in this collection are in the public domain. No claim to copy
 
 If you use this corpus in your research or teaching, please follow good scholarly practice and use the following citation suggestion to acknowledge your source:
 
-* *Georgian Novel Corpus (ELTeC-geo)*, edited by Irakli Khvedelidze. Version v1.0.1, September 2024. In: *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: tbc. 
+* *Georgian Novel Corpus (ELTeC-geo)*, edited by Irakli Khvedelidze. Version v0.1.0, September 2024. In: *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: tbc. 
 
 ```
 @collection{khvedelidze_2024_eltecgeo,
