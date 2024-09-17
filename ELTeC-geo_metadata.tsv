@@ -1,0 +1,59 @@
+corpus-id	filename	xmlid	author-name	title	author-birth	author-death	author-gender	author-ids	reference-year	first-edition	digital-edition	print-edition	provenance	title-ids	language	numwords	subgenre	narrative-perspective	size-category	reprint-count	time-slot
+																					
+ELTeC-geo	GEO00018_Chonkadze	GEO00018_Chonkadze	დანიელ ჭონქაძე	სურამის ციხე	1830	1860	M	viaf:47747330 wikidata:Q2584665	1859	1859	unspecified	1932	National Parliamentary Library of Georgia	wikidata:Q1408982	geo	11918	NA	heterodiegetic	short	high	T1
+																					
+ELTeC-geo	GEO00029_Ardaziani	GEO00029_Ardaziani	ლავრენტი არდაზიანი	სოლომონ ისაკიჩ მეჯღანუაშვილი: ELTeC                    edition	1859	1894	M	viaf:68417514 wikidata:Q2090607	1861	1861	unspecified	1984	National Parliamentary Library of Georgia	wikidata:unspecified	geo	23896	NA	heterodiegetic	short	high	T2
+																					
+ELTeC-geo	GEO00008_Chavchavadze	GEO00008_Chavchavadze	ილია ჭავჭავაძე	კაცია-ადამიანი?!	1837	1907	M	viaf:51723484 wikidata:Q333411	1863	1863	1988	NA	National Parliamentary Library of Georgia	wikidata:Q16370990	geo	13157	NA	heterodiegetic	short	high	T2
+																					
+ELTeC-geo	GEO00007_Chavchavadze	glaxis_naambobi	ილია ჭავჭავაძე	გლახის ნაამბობი	1837	1907	M	viaf:51723484 wikidata:Q333411	1863	1863	1988	NA	National Parliamentary Library of Georgia	wikidata:unspecified	geo	20708	NA	heterodiegetic	short	high	T2
+																					
+ELTeC-geo	GEO00017_Purceladze	GEO00017_Purceladze	ანტონ ფურცელაძე	მართა	1859	1894	M	viaf:57869165 wikidata:Q4383941	1866	1866	2004	1984	National Parliamentary Library of Georgia/Ilia State University	wikidata:unspecified	geo	34878	NA	heterodiegetic	short	high	T2
+																					
+ELTeC-geo	GEO00002_Kazbegi	GEO00002_Kazbegi	ალექსანდრე ყაზბეგი	მამის მკვლელი	1848	1893	M	viaf:45099789 wikidata:Q741373	1882	1882	2004	1948	National Parliamentary Library of Georgia/Ilia State University	wikidata:Q5268017	geo	50153	NA	heterodiegetic	medium	high	T3
+																					
+ELTeC-geo	GEO00001_Kazbegi	GEO00001_Kazbegi	ალექსანდრე ყაზბეგი	ხევისბერი გოჩა	1848	1893	M	viaf:45099789 wikidata:Q741373	1884	1884	2004	1948	National Parliamentary Library of Georgia/Ilia State University	wikidata:Q25542732	geo	15926	NA	heterodiegetic	short	high	T3
+																					
+ELTeC-geo	GEO00003_Kazbegi	GEO00003_Kazbegi	ალექსანდრე ყაზბეგი	მოძღვარი	1848	1893	M	viaf:45099789 wikidata:Q741373	1885	1885	2004	1948	National Parliamentary Library of Georgia/Ilia State University	wikidata:unspecified	geo	38399	NA	heterodiegetic	short	high	T3
+																					
+ELTeC-geo	GEO00009_Chavchavadze	GEO00009_Chavchavadze	ილია ჭავჭავაძე	ოთარაანთ ქვრივი	1837	1907	M	viaf:51723484 wikidata:Q333411	1888	1888	1988	NA	National Parliamentary Library of Georgia	wikidata:unspecified	geo	15926	NA	heterodiegetic	short	high	T3
+																					
+ELTeC-geo	GEO00022_Tsereteli	GEO00022_Tsereteli	გიორგი წერეთელი	მამიდა ასმათი	1859	1894	M	viaf:159917596 wikidata:Q4504505	1888	1888	unspecified	1926	National Parliamentary Library of Georgia	wikidata:unspecified	geo	15189	NA	heterodiegetic	short	high	T3
+																					
+ELTeC-geo	GEO00023_Tsereteli	GEO00005_Ninoshvili	გიორგი წერეთელი	პირველი ნაბიჯი	1859	1894	M	viaf:159917596 wikidata:Q4504505	1891	1891	unspecified	1926	National Parliamentary Library of Georgia	wikidata:unspecified	geo	55046	NA	heterodiegetic	short	high	T3
+																					
+ELTeC-geo	GEO00005_Ninoshvili	GEO00005_Ninoshvili	ეგნატე ნინოშვილი	პარტახი	1859	1894	M	viaf:9687749 wikidata:Q3653149	1891	1891	2004	1935	National Parliamentary Library of Georgia/Ilia State                        University	wikidata:unspecified	geo	13157	NA	heterodiegetic	short	high	T3
+																					
+ELTeC-geo	GEO00021_Aragvispireli	GEO00021_Aragvispireli	შიო არაგვისპირელი	და_ძმა	1867	1926	M	viaf:43628195 wikidata:Q3652010	1893	1893	2004	1989	National Parliamentary Library of Georgia/Ilia State University	wikidata:unspecified	geo	12565	NA	heterodiegetic	short	high	T3
+																					
+ELTeC-geo	GEO00006_Ninoshvili	GEO00006_Ninoshvili	ეგნატე ნინოშვილი	ქრისტინე	1859	1894	M	viaf:9687749 wikidata:Q3653149	1893	1893	2004	1954	National Parliamentary Library of Georgia/Ilia State University	wikidata:unspecified	geo	13922	NA	heterodiegetic	short	high	T3
+																					
+ELTeC-geo	GEO00004_Ninoshvili	GEO00004_Ninoshvili	ეგნატე ნინოშვილი	ჩვენი ქვეყნის რაინდი	1859	1894	M	viaf:9687749 wikidata:Q3653149	1893	1893	2004	1954	National Parliamentary Library of Georgia/Ilia State University	wikidata:unspecified	geo	12828	NA	heterodiegetic	short	high	T3
+																					
+ELTeC-geo	GEO00024_Tsereteli	GEO00024_Tsereteli	აკაკი წერეთელი	ბაში-აჩუკი	1840	1915	M	viaf:47400051 wikidata:Q379612	1895	1895	2015	NA	საქართველოს მაცნე	wikidata:Q16365920	geo	14362	NA	heterodiegetic	short	high	T3
+																					
+ELTeC-geo	GEO00010_Gabashvili	GEO00010_Gabashvili	ეკატერინე გაბაშვილი	გამარჯვებული ნიკო	1851	1938	F	viaf:41080785 wikidata:Q3651918	1896	1896	2004	1987	National Parliamentary Library of Georgia/Ilia State University	wikidata:Q5268017	geo	17040	social novel	heterodiegetic	short	high	T3
+																					
+ELTeC-geo	GEO00015_Kldiashvili	GEO00015_Kldiashvili	დავით კლდიაშვილი	სამანიშვილის დედინაცვალი	1862	1931	M	viaf:67266569 wikidata:Q2478939	1901	NA	2004	1901	National Parliamentary Library of Georgia/Ilia State University	wikidata:Q5268017	geo	13157	NA	heterodiegetic	short	high	T4
+																					
+ELTeC-geo	GEO00016_Kldiashvili	GEO00016_Kldiashvili	დავით კლდიაშვილი	ქამუშაძის გაჭირვება	1862	1931	M	viaf:67266569 wikidata:Q2478939	1901	NA	2004	1901	National Parliamentary Library of Georgia/Ilia State University	wikidata:Q5268017	geo	13157	NA	heterodiegetic	short	high	T4
+																					
+ELTeC-geo	GEO00012_Mgaloblishvili	GEO00011_Mgaloblishvili	სოფრომ მგალობლიშვილი	ღამის მეხრე ცეცო	1851	1925	M	viaf:101137417 wikidata:Q4286486	1907	1907	2004	1987	National Parliamentary Library of Georgia/Ilia State                        University	wikidata:unspecified	geo	18402	social novel	heterodiegetic	short	high	T3
+																					
+ELTeC-geo	GEO00011_Mgaloblishvili	GEO00011_Mgaloblishvili	სოფრომ მგალობლიშვილი	ჯორ-ზაქარა	1851	1925	M	viaf:101137417 wikidata:Q4286486	1907	1907	2004	1948	National Parliamentary Library of Georgia/Ilia State                        University	wikidata:unspecified	geo	18915	social novel	heterodiegetic	short	high	T4
+																					
+ELTeC-geo	GEO00014_Lomtatidze	GEO00014_Lomtatidze	ჭოლა ლომთათიძე	სახრჩობელის წინაშე	1879	1915	M	viaf:46249109 wikidata:Q12871320	1907	1907	2004	1989	National Parliamentary Library of Georgia/Ilia State University	wikidata:unspecified	geo	10539	NA	homodiegetic	short	high	T4
+																					
+ELTeC-geo	GEO00013_Lomtatidze	GEO00013_Lomtatidze	ჭოლა ლომთათიძე	თეთრი ღამე	1879	1915	M	viaf:46249109 wikidata:Q12871320	1911	1911	2004	1989	National Parliamentary Library of Georgia/Ilia State University	wikidata:Q28016022	geo	15895	NA	homodiegetic	short	high	T4
+																					
+ELTeC-geo	GEO00019_Tatarishvili	GEO00019_Tatarishvili	უიარაღო (თათარიშვილიკონდრატე)	მამელუკი	1872	1929	M	viaf:28719599 wikidata:Q12869756	1912	1912	2004	1957	National Parliamentary Library of Georgia/Ilia State University	wikidata:unspecified	geo	22414	NA	heterodiegetic	short	high	T4
+																					
+ELTeC-geo	GEO00020_Aragvispireli	GEO00020_Aragvispireli	შიო არაგვისპირელი	გაბზარული გული	1867	1926	M	viaf:43628195 wikidata:Q3652010	1919	1919	2004	1989	National Parliamentary Library of Georgia/Ilia State University	wikidata:unspecified	geo	50558	NA	heterodiegetic	medium	high	T4
+																					
+ELTeC-geo	GEO00025_Barnovi	GEO00005_Ninoshvili	ვასილ ბარნოვი	თებერას დანიშნული	1856	1934	M	viaf:60716102 wikidata:Q3648780	1961	NA	2004	1961	National Parliamentary Library of Georgia/Ilia State University	wikidata:unspecified	geo	14807	NA	heterodiegetic	short	high	T4
+																					
+ELTeC-geo	GEO00027_Barnovi	GEO00005_Ninoshvili	ვასილ ბარნოვი	მიმქრალი შარავანდედი	1856	1934	M	viaf:60716102 wikidata:Q3648780	1961	NA	2004	1961	National Parliamentary Library of Georgia/Ilia State University	wikidata:unspecified	geo	36199	NA	heterodiegetic	medium	high	T4
+																					
+ELTeC-geo	GEO00026_Barnovi	GEO00005_Ninoshvili	ვასილ ბარნოვი	ტრფობა წამებული	1856	1934	M	viaf:60716102 wikidata:Q3648780	1962	NA	2004	1962	National Parliamentary Library of Georgia/Ilia State University	wikidata:unspecified	geo	72346	NA	heterodiegetic	medium	high	T4
+																					
+ELTeC-geo	GEO00028_Lortqipanidze	GEO00028_Lortqipanidze	ნიკო ლორთქიფანიძე	კერიასათვის	1880	1944	M	viaf:30455678 wikidata:Q1694620	1994	NA	unspecified	1994	National Parliamentary Library of Georgia	wikidata:unspecified	geo	13557	NA	heterodiegetic	short	high	T4
